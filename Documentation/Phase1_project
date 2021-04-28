@@ -1,0 +1,17 @@
+Lockers Pvt. Ltd 
+Welcome to project lockedme.com
+developed by : Onkar charate(oc webtech)
+contact us :Omkarcharate27@gmail.com if any qurrey
+------------------------------------------------------
+1- Main Menu
+2- fileOption Menu
+3- Exit Application
+-------------------------------------------------------
+1(Main Menu)-show the all files we created
+2(fileOption Menu)-we have many option :
+	-1 create a file
+	-2 file Information
+	-3 Read file
+	-4 write in file
+	-5 delete a file
+3(Exit Application)-close the Application	

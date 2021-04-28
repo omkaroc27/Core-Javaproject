@@ -1,0 +1,99 @@
+MAIN APPLICATION :-    
+
+
+                     **************************************
+                         *                                    *
+                         ***********  LockedMe.com  ***********                                                Developed by:omkarcharate
+                         *                                    *                        EmailId:omkarcharate27@gmail.com
+                         **************************************
+
+                         ********* LockedMe Application *******                               
+***********************************************************************************************
+1.  Show all files present in Directory
+2.  File option Menu
+3.  Exit (back to Main Menu)
+
+*********Please enter your choice:_
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+Option 1 for Show all txt file present in directory:
+
+1.  Show all files present in Directory
+2.  File option Menu
+3.  Exit (back to Main Menu)
+
+*********Please enter your choice:-1
+
+
+
+
+
+
+Enter the file path: 
+D:\phase1_project\project
+Show all files  present in this directory:- 
+
+ omkar.txt
+*****************************************************************
+ omkashd.txt
+*****************************************************************
+
+
+
+
+
+
+
+Option 2 for  File Options
+-------------------------------------
+1.  Show all files present in Directory
+2.  File option Menu
+3.  Exit (back to Main Menu)
+
+*********Please enter your choice:-2
+
+                         ********* LockedMe.com ****************                          
+                         ********* FILE OPTION MENU ************                                
+***********************************************************************************************
+1.  Creating_New_File
+2.  Write_in_File
+3.  Read_File
+4.  FileInformation
+5.  Delete_File
+0.  Exit(back to main Menu)
+
+*********Please enter your choice:-1
+creating file: Enter Your File Name With (*extension*):
+lockedme.txt
+
+
+
+
+
+
+Option 3 for Exit To (Main menu)
+
+-------------------------------------------
+1.  Show all files present in Directory
+2.  File option Menu
+3.  Exit (back to Main Menu)
+
+*********Please enter your choice:-3
+                         **************************************
+                         *                                    *
+                         ***********  LockedMe.com  ***********                        Developed by:omkarcharate
+                         *                                    *                        EmailId:omkarcharate27@gmail.com
+                         **************************************
+
+                         ********* LockedMe Application *******                               
+***********************************************************************************************
+1.  Show all files present in Directory
+2.  File option Menu
+3.  Exit (back to Main Menu)
+
+*********Please enter your choice:-
+
+ 
