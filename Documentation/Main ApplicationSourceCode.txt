@@ -67,7 +67,7 @@ public class LockedMeApplication {
 
 
 
-File Option: phase1project/src/fileOption/CreatingFiles.java 
+File Option: phase1project/src/fileOption/CreatingFiles.javaÂ 
 
 package fileOption;
 
@@ -155,7 +155,7 @@ import java.util.Scanner;
 }}
 
 
-File Option: phase1project/src/fileOption/WriteFiles.java 
+File Option: phase1project/src/fileOption/WriteFiles.javaÂ 
 package fileOption;
 
 import java.util.Scanner; 
@@ -263,7 +263,7 @@ public class FileInformation {
 
 
 
-File Option: phase1project/src/fileOption/DeleteFiles.java 
+File Option: phase1project/src/fileOption/DeleteFiles.javaÂ 
 
 package fileOption;
 
@@ -293,7 +293,7 @@ public class DeleteFile {
 
 
 
-File Option: phase1project/src/fileOption/FileManagement.java 
+File Option: phase1project/src/fileOption/FileManagement.javaÂ 
 
 package fileOption;
 
